@@ -1,6 +1,8 @@
 # employeemanager
 
-> test project
+> In order to connect to firebase you'll need a login and database configured here
+
+https://console.firebase.google.com
 
 ## Build Setup
 
